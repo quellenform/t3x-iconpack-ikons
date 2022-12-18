@@ -1,0 +1,27 @@
+iconpack:
+  title: "Ikons vector icons"
+  key: "ikons"
+  #version: "unknown"
+  url: "http://ikons.piotrkwiatkowski.co.uk/"
+
+  renderTypes:
+
+    _default:
+      prefix: "ikons-"
+
+    webfont:
+      css: "EXT:iconpack_ikons/Resources/Public/Vendor/ikons/css/webfont.css"
+      attributes:
+        aria-hidden: "true"
+        role: "img"
+
+    svg:
+      source: "EXT:iconpack_ikons/Resources/Public/Vendor/ikons/svgs/"
+
+    svgInline:
+      source: "EXT:iconpack_ikons/Resources/Public/Vendor/ikons/svgs/"
+      attributes:
+        fill: "currentColor"
+        role: "img"
+
+  icons: "EXT:iconpack_ikons/Resources/Public/Vendor/ikons/metadata/icons.yml"
