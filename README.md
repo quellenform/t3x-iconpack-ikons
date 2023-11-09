@@ -5,7 +5,6 @@
 
 TYPO3 CMS Extension "iconpack_ikons"
 
-> Note: Since these icons are only available as SVG, it is currently not possible to use them in the CKEditor.
 
 ## What does it do?
 
