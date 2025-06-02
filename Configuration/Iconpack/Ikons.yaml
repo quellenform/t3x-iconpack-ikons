@@ -11,9 +11,6 @@ iconpack:
 
     webfont:
       css: "EXT:iconpack_ikons/Resources/Public/Vendor/ikons/css/webfont.css"
-      attributes:
-        aria-hidden: "true"
-        role: "img"
 
     svg:
       source: "EXT:iconpack_ikons/Resources/Public/Vendor/ikons/svgs/"
@@ -22,6 +19,5 @@ iconpack:
       source: "EXT:iconpack_ikons/Resources/Public/Vendor/ikons/svgs/"
       attributes:
         fill: "currentColor"
-        role: "img"
 
   icons: "EXT:iconpack_ikons/Resources/Public/Vendor/ikons/metadata/icons.yml"
